@@ -1,3 +1,5 @@
+//==> As a gamer, this was the funnest lab yet! Props to whoever wrote this assignment and referenced Dark Souls. Praise the sun! \[T}/
+
 const dodger = document.getElementById('dodger');
 
 function moveDodgerLeft() {
@@ -29,3 +31,4 @@ document.addEventListener("keydown", function(e) {
         moveDodgerRight();
     }
 });
+
